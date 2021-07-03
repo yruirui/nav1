@@ -1,3 +1,0 @@
-$('.add').on('click',()=>{
-   let url= window.prompt('请输入要添加的网址')
-})
