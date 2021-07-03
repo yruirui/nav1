@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+* ::before，*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #eee;
+}
+ol {
+  list-style: none;
+}
+ul {
+  list-style: none;
+}
+.globalHeader {
+  border: 1px solid red;
+}
+.globalHeader > input {
+}
+.globalHeader > button {
+}
+
+.globalMain {
+}
+
+.siteList {
+}
+.siteList > li {
+}
+.siteList .site {
+}
+.siteList .site > .logo {
+}
+.siteList .site > .link {
+}
+.siteList .add {
+}
+
+/*# sourceMappingURL=index.HASH_REF_f0918a547ace1733ebc251b0de60a1d7.css.map */
